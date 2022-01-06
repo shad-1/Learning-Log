@@ -12,3 +12,19 @@
 
 ## Azure Devops
 - 
+
+
+
+add gh workflows, deploying to azure, deploying a django project, django learnings and process rules
+
+
+- process: 
+- multiple solutions to every problem
+- you can try to directly translate small tutorials onto your bigger proejct immediately, but it will probably be a waste of time. Either before or after that, complete as small of a tutorial as possible. Learn the concepts, get the win, and then apply them to your bigger project.
+- Never rush a deployment. Make a parallel deployment, create a backup of settings and config to be able to roll back if something goes wrong. Take the time to configure multiple environments so you can run it locally and verify. 
+...
+- make a list of questions to ask when you're blocked. (are you on the right branch? Latest? storage emulator? etc.)
+- Even if you're short on time, have goals for the day. Check on your progress at least every hour, and make sure you're working towards your goals. (1/6/22)
+
+## Azure App Service
+- Filename case matters! It might run locally, but it will break on app service if it's not a perfect case match. (12/14/21)
