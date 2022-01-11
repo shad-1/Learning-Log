@@ -1,5 +1,5 @@
 # Personal Rules
-### A Programmer's framework to avoid breaking everything, primarily from experience breaking things.
+### A Programmer's guide to avoid breaking everything, primarily from experience breaking things. Intended for an audience of one, may be useful to more. 
 
 ## When merging a feature...
 - Always be positive you are merging __all__ involved branches. 
