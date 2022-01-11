@@ -1,4 +1,5 @@
 # Learning-Log
+### Some level of growth documentation. See also personal rules developed from these experiences and more. 
 
 ## Angular
 - When working with a component from a package, don't treat the package like a black box. Find the code wherever it's hosted and figure out how it works. IOW `F12` everything. (11/11/21)
