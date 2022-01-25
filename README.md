@@ -12,6 +12,10 @@
 - If a parent component is not recieving the expected information from the child, dig into the way that the child is working. Odds are an event isn't being fired. (11/2/21)
 - If you're not sure why properties on an object are the way that they are, check the DB to see if other instances/versions of that object have matching properties. If not, you might be dealing with bad data. (11/12/21)
 - When you're stuck, write out a comment detailing what you know and what questions remain. Doing so will help you think through the problem and figure out what's going on. (11/12/21)
+- Develop a first instinct to look at the output, break into the code, see what is happening where. 
+  - What is the flow of data? 
+  - What is the context? 
+  - What extrinsic factors are in my control which might be affecting the state of the application? Inputs? Integrations? Dependencies? (1/25/22)
 
 ## Azure Devops
 - How to add gh workflows, deploying to azure, deploying a django project. (12/6/21)
@@ -26,3 +30,11 @@
 - Make a list of questions to ask when you're blocked. (Are you on the right branch? Latest? Storage emulator running? etc.) (12/7/21)
 - Even if you're short on time, have goals for the day. Check on your progress at least every hour, and make sure you're working towards your goals. (1/6/22)
 - If you feel lost on a topic, type out a message to your team in a note. Odds are you will think of a new question to google, and often enough, it will lead you to answers. (1/7/21)
+- Get wins quickly. (1/25/22)
+  - Take a moment to connect how the win will help you realize your vision of company and personal growth. 
+### Feeling Stuck
+- When feeling stuck, draw it out. 
+  - If you spend more than 30 minutes planning on your own, call someone in or just get started and re-evaluate in 30. 
+  - If you don't know everything, but you do know some things, jump in on those things and ship something daily. (1/19/22)
+
+  ### Handling Distractions
