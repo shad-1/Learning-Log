@@ -8,6 +8,11 @@
 - Lucene is a super powerful text search engine. The concept of inverted mappings is brilliant. (1/7/22)
 - LukeMapper is a great micro-ORM. Still need to dig into it more. (1/7/22)
 
+## NuGet
+- Make sure you have the correct package sources, and that they are appropriately enabled. (3/16/22)
+- To clear local caches, make sure nothing is using NuGet (kill all running dotnet projects and maybe close VS). (3/16/22)
+  - `dotnet nuget locals all -c`
+
 ## Debugging
 - If a parent component is not recieving the expected information from the child, dig into the way that the child is working. Odds are an event isn't being fired. (11/2/21)
 - If you're not sure why properties on an object are the way that they are, check the DB to see if other instances/versions of that object have matching properties. If not, you might be dealing with bad data. (11/12/21)
@@ -32,9 +37,13 @@
 - If you feel lost on a topic, type out a message to your team in a note. Odds are you will think of a new question to google, and often enough, it will lead you to answers. (1/7/21)
 - Get wins quickly. (1/25/22)
   - Take a moment to connect how the win will help you realize your vision of company and personal growth. 
+
+- Pull the latest changes on all feature branches daily! 
+  - You should also do this on the dev/master branches for other services, but it's especially important to do it on every feature branch. (4/7/22)
 ### Feeling Stuck
 - When feeling stuck, draw it out. 
   - If you spend more than 30 minutes planning on your own, call someone in or just get started and re-evaluate in 30. 
   - If you don't know everything, but you do know some things, jump in on those things and ship something daily. (1/19/22)
+- If something just doeesn't make sense, pull the latest on everything! Assume that others are fixing things. (4/7/22)
 
   ### Handling Distractions

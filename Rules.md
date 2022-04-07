@@ -6,6 +6,7 @@
     - __**Do not** count on the workflow management tool to accurately report which branches are involved__.
 - **Do not** merge at the end of shift.
 - **NEVER** merge right before the weekend.
+- *Always* read over git diff's before pushing a merge. 
 
 ### When reviewing code...
 - If it is a **SQL migration**, check for hardcoded database references. Different environments will likely have different database names. Reference tables instead.
@@ -26,3 +27,11 @@
 - Are you on the correct branch? 
 - Is your storage emulator running? 
 - Is your database server running? 
+
+
+## Everyday Git Operations
+- Be careful. Watch the diff's closely.
+- When your branch is behind the remote, stash your changes for a clean working tree, pull, then reapply from your stash. 
+
+
+//todo: is there a better way to synchronize this and readme?
