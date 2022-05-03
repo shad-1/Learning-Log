@@ -1,9 +1,11 @@
 # Learning-Log
 #### Some level of growth documentation. See also personal rules developed from these experiences and more. 
 
+
 ## Angular
 
 - When working with a component from a package, don't treat the package like a black box. Find the code wherever it's hosted and figure out how it works. IOW `F12` everything if documentation isn't available. (11/11/21)
+  
   
 ## ASP.NET Core
 
@@ -17,6 +19,7 @@
 - To clear local caches, make sure nothing is using NuGet (kill all running dotnet projects and maybe close VS). (3/16/22)
   - `dotnet nuget locals all -c`
 
+
 ## Azure
 
 ### Azure Devops
@@ -24,6 +27,7 @@
 
 ### Azure App Service
 - Filename case matters! It might run locally, but it will break on app service if it's not a perfect case match. (12/14/21)
+
 
 ## Debugging
 
@@ -34,6 +38,7 @@
   - What is the flow of data? 
   - What is the context? 
   - What extrinsic factors are in my control which might be affecting the state of the application? Inputs? Integrations? Dependencies? (1/25/22)
+
 
 ## Process 
 
@@ -56,6 +61,7 @@
 - If something just doeesn't make sense, pull the latest on everything! Assume that others are fixing things. (4/7/22)
 
 ### Handling Distractions
+- Keep daily goal list on screen to remind yourself of what you want to accomplish. (5/2/22)
 
 ## People
 
