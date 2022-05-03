@@ -2,11 +2,11 @@
 #### Some level of growth documentation. See also personal rules developed from these experiences and more. 
 
 ## Angular
----
+
 - When working with a component from a package, don't treat the package like a black box. Find the code wherever it's hosted and figure out how it works. IOW `F12` everything if documentation isn't available. (11/11/21)
   
 ## ASP.NET Core
----
+
 - Lucene is a super powerful text search engine. The concept of inverted mappings is brilliant. (1/7/22)
 - LukeMapper is a great micro-ORM. Still need to dig into it more. (1/7/22)
   
@@ -18,7 +18,7 @@
   - `dotnet nuget locals all -c`
 
 ## Azure
----
+
 ### Azure Devops
 - How to add gh workflows, deploying to azure, deploying a django project. (12/6/21)
 
@@ -26,7 +26,7 @@
 - Filename case matters! It might run locally, but it will break on app service if it's not a perfect case match. (12/14/21)
 
 ## Debugging
----
+
 - If a parent component is not recieving the expected information from the child, dig into the way that the child is working. Odds are an event isn't being fired. (11/2/21)
 - If you're not sure why properties on an object are the way that they are, check the DB to see if other instances/versions of that object have matching properties. If not, you might be dealing with bad data. (11/12/21)
 - When you're stuck, write out a comment detailing what you know and what questions remain. Doing so will help you think through the problem and figure out what's going on. (11/12/21)
@@ -36,7 +36,7 @@
   - What extrinsic factors are in my control which might be affecting the state of the application? Inputs? Integrations? Dependencies? (1/25/22)
 
 ## Process 
----
+
 - There are multiple solutions to every problem, so think through three as you consider all angles. (12/6/21)
 - You can try to directly translate small tutorials onto your bigger proejct immediately, but it will probably be a waste of time. Either before or after that, complete as small of a tutorial as possible. Learn the concepts, get the win, and then apply what you've learned to your bigger project.
 - Never rush a deployment. Make a parallel deployment, create a backup of settings and config for rollback if something goes wrong. Take the time to configure multiple environments so you can run it locally and verify. (12/7/21)
@@ -58,7 +58,7 @@
 ### Handling Distractions
 
 ## People
----
+
 - Always celebrate the victories, successes, and contributions of others.
 - Be quick to compliment ingenuity, effort, and thoughtfulness.
 
