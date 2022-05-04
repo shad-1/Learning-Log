@@ -62,11 +62,13 @@
 
 ### Handling Distractions
 - Keep daily goal list on screen to remind yourself of what you want to accomplish. (5/2/22)
+- Consistently refocus on your purpose to avoid getting lost in what you are doing. Can you brighten someone's day? (5/3/22)
 
 ## People
 
 - Always celebrate the victories, successes, and contributions of others.
 - Be quick to compliment ingenuity, effort, and thoughtfulness.
+- Do not take offense to seemingly errant suggestions or comments. Meekly ask for clarificaiton, and focus on the big picture of helping the company. (5/3/22)
 
 ### Disagreements
 - If you think you have a better way, ask something like "Is there a disadvantage to...?"
